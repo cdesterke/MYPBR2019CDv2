@@ -1,7 +1,7 @@
 # MYPBR2019CDv2
 Bioinformatics pipeline for Illumina pair end target sequencing
 
-![pipeline](https://github.com/cdesterke/Pipeline_dual2019_miseq-/blob/master/pipeline.png)
+![pipeline](https://github.com/cdesterke/MYPBR2019CDv2/blob/master/pipeline_MYPBR2019CDv2.png)
 
 # references
 
